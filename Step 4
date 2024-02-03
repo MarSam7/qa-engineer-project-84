@@ -74,73 +74,19 @@
     При нажатии на кнопку "В корзину" товары действительно добавляются в корзину 
   prerequisites:
     Главная страница сайта
-  test-data: |
-    
   steps:
-    
+    - На главной странице выбрать необходимые товары и нажать на кнопку "В корзину"
   expected-result: |    
-
+    Выбранные товары должны добавиться в корзину
 
 - summary: |
-    
+    Возможность просматривать корзину
   requirement: |
-    
+    В корзине должны высвечиваться добавленные в неё товары
   prerequisites:
-    
-  test-data: |
-    
+    Была нажата кнопка "В корзину" на необходимых товарах
   steps:
-    
+    - Нажать кнопку "Корзина" на главной странице
+    - Проверить наличие выбранных ранее товаров
   expected-result: |    
-
-
-- summary: |
-    
-  requirement: |
-    
-  prerequisites:
-    
-  test-data: |
-    
-  steps:
-    
-  expected-result: |    
-
-
-- summary: |
-    
-  requirement: |
-    
-  prerequisites:
-    
-  test-data: |
-    
-  steps:
-    
-  expected-result: |    
-
-
-- summary: |
-    
-  requirement: |
-    
-  prerequisites:
-    
-  test-data: |
-    
-  steps:
-    
-  expected-result: |    
-
-
-- summary: |
-    
-  requirement: |
-    
-  prerequisites:
-    
-  test-data: |
-    
-  steps:
-    
-  expected-result: |    
+    Все добавленные товары в корзине и их можно просматривать
