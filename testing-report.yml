@@ -1,29 +1,22 @@
 ---
 - summary: |
     Поиск по ключевому слову
-  status: 
-    pass
+  status: pass
 - summary: |
     Поиск товара по категории
-  status: 
-    pass
+  status: pass
 - summary: |
     Возможность фильтровать товары
-  status:
-    pass
+  status: pass
 - summary: |
     Возможность просматривать товары
-  status:
-    pass
+  status: pass
 - summary: |
     Возможность просматривать подробную информацию о товаре
-  status:
-    pass
+  status: pass
 - summary:
     Возможность добавлять товары в корзину
-  status:
-    pass
+  status: pass
 - summary:
   Возможность просматривать корзину
-  status:
-    pass
+  status: pass
