@@ -1,6 +1,6 @@
 ---
 test-cases:
-  - summary: |
+- summary: |
     Поиск по ключевому слову
   status: pass
   
@@ -16,7 +16,7 @@ test-cases:
     Наличие пагинации в каталоге товаров сайта
   status: pass
 
-  - summary: |
+- summary: |
     Возможность просматривать подробную информацию о товаре
   status: pass
   
@@ -28,15 +28,15 @@ test-cases:
     Возможность возвращаться из корзины на главвный экран
   status: pass
 
-  - summary: |
+- summary: |
     Возможность отчищать корзину
   status: pass
 
-  - summary: |
+- summary: |
     Возможность удалять только один товар из корзины
   status: pass
 
-  - summary: |
+- summary: |
     Возможность закрыть высвечивающееся окно
   status: fail
 
