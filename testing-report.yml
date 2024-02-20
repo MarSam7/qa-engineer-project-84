@@ -58,7 +58,7 @@
     Проверка работы кнопки в наличии(нажатая)
   status: pass
 
-  - summary: |
+- summary: |
     Оформление заказа
   status: fail
   
