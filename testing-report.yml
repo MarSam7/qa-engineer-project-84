@@ -38,23 +38,23 @@
     Возможность закртия модального окна при заказе товара
   status: fail
 
-  - summary: |
+- summary: |
     Фильтрация по цене(позитивный)
   status: pass
 
-  - summary: |
+- summary: |
     Фильтрация по цене(негативный)
   status: fail
 
-  - summary: |
+- summary: |
     Смена языка
   status: fail
 
-  - summary: |
+- summary: |
     Проверка работы кнопки в наличии(отжатая)
   status: fail
 
-  - summary: |
+- summary: |
     Проверка работы кнопки в наличии(нажатая)
   status: pass
 
